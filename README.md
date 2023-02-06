@@ -1,4 +1,4 @@
-### Olá 👋
+### Hello, busco saber programar (●'◡'●)
 
 
 <div align="center">
