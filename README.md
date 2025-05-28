@@ -20,14 +20,6 @@
     alt="Top Language"
     src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=enzocst&theme=gotham"
   />
-  <br>
-  <br>
-  <img
-    height=154
-    align="center"
-    alt="Top Language"
-    src="https://github-readme-streak-stats.herokuapp.com?user=enzocst&theme=gotham&border_radius=10)](https://git.io/streak-stats"
-  />
   </div>
  
 ### Main skills:
