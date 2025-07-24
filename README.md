@@ -9,12 +9,6 @@
     alt="GitHub Stats"
     src="https://github-readme-stats.vercel.app/api?username=enzocst&theme=gotham&show_icons=true&hide_border=false&count_private=true"
   />
-  <img
-    height=165
-    align="center"
-    alt="Github Streak"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=enzocst&theme=gotham&hide_border=false"
-  />
   <br>
   <br>
   <img
