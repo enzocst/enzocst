@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Enzo+Costa!;I+am+a+tech+student;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Enzo+Costa!;I+am+a+junior+support+analyst+and+an+Internet+Systems+student+at+IFRN;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 <p align="center">
   <img src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" alt="Header" width="600" height="300">
 </p>
