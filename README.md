@@ -2,22 +2,7 @@
 <p align="center">
   <img src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" alt="Header" width="600" height="300">
 </p>
-<div align="center">
-  <img
-    height=165
-    align="center"
-    alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api?username=enzocst&theme=gotham&show_icons=true&hide_border=false&count_private=true"
-  />
-  <br>
-  <br>
-  <img
-    align="center"
-    alt="Top Language"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzocst&theme=gotham&show_icons=true&hide_border=false&layout=compact"
-  />
-  </div>
-  
+
 ### My Skill Set:
 <div align="center">  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
